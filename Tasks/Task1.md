@@ -5,7 +5,34 @@ the output, satisfying the equation</br>
 2. Create a int array of size 21 that contain data of cubic(0) to cubic(20)
 3. Print the table of X and Y values from the array data.</br>
 
-# Level2
+# Level 1 Output
++----+---------+</br>
+|&nbsp;&nbsp; X&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Y&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>
++----+---------+</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp; | &nbsp;500000 |</br> 
+|&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp; | &nbsp;671000 |</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp; | &nbsp;788000 |</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;3&nbsp; | &nbsp;857000 |</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;4&nbsp; | &nbsp;884000 |</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;5&nbsp; | &nbsp;875000 |</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp; | &nbsp;836000 |</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;7&nbsp; | &nbsp;773000 |</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;8&nbsp; | &nbsp;692000 |</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;9&nbsp; | &nbsp;599000 |</br>
+|&nbsp;&nbsp;&nbsp;10&nbsp;| &nbsp;500000 |</br>
+|&nbsp;&nbsp;&nbsp;11&nbsp;| &nbsp;401000 |</br>
+|&nbsp;&nbsp;&nbsp;12&nbsp;| &nbsp;308000 |</br>
+|&nbsp;&nbsp;&nbsp;13&nbsp;| &nbsp;227000 |</br>
+|&nbsp;&nbsp;&nbsp;14&nbsp;| &nbsp;164000 |</br>
+|&nbsp;&nbsp;&nbsp;15&nbsp;| &nbsp;125000 |</br>
+|&nbsp;&nbsp;&nbsp;16&nbsp;| &nbsp;116000 |</br>
+|&nbsp;&nbsp;&nbsp;17&nbsp;| &nbsp;143000 |</br>
+|&nbsp;&nbsp;&nbsp;18&nbsp;| &nbsp;212000 |</br>
+|&nbsp;&nbsp;&nbsp;19&nbsp;| &nbsp;329000 |</br>
+|&nbsp;&nbsp;&nbsp;20&nbsp;| &nbsp;500000 |</br>
++----+---------+</br>
+
+# Level 2
 1. Create a function called graph, which takes a pointer to int called table as the input, and
 display a graph that satisfy the following criteria:
    - vertical axis(y-axis) is represented by |
