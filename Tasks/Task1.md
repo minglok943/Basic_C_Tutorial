@@ -49,7 +49,8 @@ display a graph that satisfy the following criteria:
    - x or y intercept is showed as % instead of - if any
    - 2 space is padded between each column of the graph, but for x-axis whole line use -
 2. Pass the pointer to data as input to the function graph
-
+# Level 2 Output
+![image](https://user-images.githubusercontent.com/80484903/135869123-304c4356-6319-436d-81da-f60ce2012662.png)
 # Level 3
   
 1. Use code page 437 for this level.
@@ -62,3 +63,7 @@ display a graph that satisfy the following criteria:
 page 437 to draw the table, and also the axes
 7. Change the marking of the points of the graph to 2 characters ><
 8. Note that 0xDB and 0xB0 takes 2 character spaces
+
+# Level 3 Output
+![image](https://user-images.githubusercontent.com/80484903/135869437-1b8fa8c8-b5b9-4a80-973f-0f332fde375e.png)
+
