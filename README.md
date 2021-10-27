@@ -14,7 +14,7 @@
 2. Finish the question in `Tutorial1/1.Pointer.md`
 3. Finish the questions in `Tutorial1/3.Struct and Union.md`
 4. `+1 Token`  and `1 hint for Hidden Challenge` for completing 2 and 3 before `11.59pm 30/10/2021`
-5. `+1 Additional Hint` for participants who complete any one of the following task before `31/10/2021`:
+5. `+1 Additional Hint` for participants who complete any one of the following task before `11.59pm 31/10/2021`:
   -  Complete **Level 1 and Level 2** of `Tasks/Task1/Task1.md`
   -  Complete **Level 1** of `Tasks/Task2/Task2.md`
   -  Complete **Level 1** of `Tasks/Task3/Task3.md`<br/><br/>
