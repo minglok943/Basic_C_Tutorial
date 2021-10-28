@@ -21,4 +21,5 @@
 Submit the compiled c file with format `Name_Task<Number>.c` to any of the following seniors:
   - Chia Ming Lok
   - Haikal Azhar
-  - Lee Jia Quan
+  - Lee Jia Quan<br/>
+`Early submission might enable you to decode the hidden challenge faster`
